@@ -25,9 +25,10 @@ See [wireframe-js-digital-clock.png](https://github.com/bootcamp-s19/exercise1-j
 To complete the assignment, you must complete the following:
 ###### Setup:
 1. Fork repo `exercise1-js-digital-clock`
-2. git clone `your-repo-name-git` into your Sites folder
-3. Create necessary files for application
-4. Import necessary css/js files (Bootstrap)
+2. locally, navigate to your `Sites` folder in the terminal
+3. git clone `your-repo-name-git` into your Sites folder
+4. Create necessary files for application
+5. Import necessary css/js files (Bootstrap)
 ###### Develop:
 1. Add content and elements to your website
 2. View changes locally with MAMP (localhost)
